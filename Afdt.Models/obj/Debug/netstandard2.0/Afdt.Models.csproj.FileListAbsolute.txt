@@ -1,0 +1,9 @@
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\bin\Debug\netstandard2.0\Afdt.Models.deps.json
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\bin\Debug\netstandard2.0\Afdt.Models.dll
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.csprojAssemblyReference.cache
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.AssemblyInfoInputs.cache
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.AssemblyInfo.cs
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\bin\Debug\netstandard2.0\Afdt.Models.pdb
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.dll
+C:\Projects\Dummies\AzureFuncDepTest\Afdt.Models\obj\Debug\netstandard2.0\Afdt.Models.pdb
